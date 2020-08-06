@@ -1,9 +1,10 @@
 ### Hi there, I am Surendra Bisht.  👋
 
 ## I'm a Technology enthusiast, Problem Solver and love to create S/w . 
--  having a Good experience in developing C# projects
+-  Having a Good experience in developing C# projects
 -  Interested to learn new things
 -  Currently learning web technologies
+
 
 ### Connect with me:
 
@@ -11,6 +12,8 @@
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hackerearth.svg"/>][hackerearth]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/leetcode.svg"/>][leetcode]
+
+<br />
 
 ### Languages and Tools:
 
