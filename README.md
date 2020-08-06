@@ -7,10 +7,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="SurendraBisht | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [https://www.linkedin.com/in/surendrabisht023]
-[<img align="left" alt="SurendraBisht | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] [https://www.instagram.com/bisht.surie]
-
+[ <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> ] [https://www.linkedin.com/in/surendrabisht023]
 <br />
+[ <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> ] [https://www.instagram.com/bisht.surie]
 
 ### Languages and Tools:
 
