@@ -2,8 +2,9 @@
 
 ## I'm a Technology enthusiast, Problem Solver and love to create S/w . 
 -  Having a Good experience in developing C# projects
+-  Capable of Writing code in C#, Python & java
 -  Interested to learn new things
--  Currently learning web technologies
+-  Currently learning web technologies & Big data and AWS Cloud Stack
 
 
 ### Connect with me:
